@@ -2,6 +2,7 @@
 layout: post
 title: Python3示例及第三方库
 category: python
+tags: test
 ---
 ## 对列表中的文本，按照其中数字排序
 > import re  
